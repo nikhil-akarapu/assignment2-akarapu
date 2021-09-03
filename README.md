@@ -5,5 +5,5 @@
 
 Nashville is known worldwide for country music
 
-Nashville was the first city ** nationwide ** to be granted an ** FM-broadcasting license **.
+Nashville was the first city **nationwide** to be granted an **FM-broadcasting license**.
 
