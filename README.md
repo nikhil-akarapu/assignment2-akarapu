@@ -51,10 +51,8 @@ In mathematics, the binomial coefficients are the positive integers that occur a
 [Introduction](https://en.wikipedia.org/wiki/Binomial_coefficient#:~:text=In%20mathematics%2C%20the%20binomial%20coefficients%20are%20the%20positive,%2B%20x%29n%2C%20and%20is%20given%20by%20the%20formula)
 
 
-'''
-              
-              
-              const int maxn = ...;
+```
+    const int maxn = ...;
                int C[maxn + 1][maxn + 1];
 
                 C[0][0] = 1;
@@ -64,9 +62,7 @@ In mathematics, the binomial coefficients are the positive integers that occur a
                         C[n][k] = C[n - 1][k - 1] + C[n - 1][k];
                         }
 
-                        
-
-'''
+```
 
 [Pascals Triangle](https://cp-algorithms.com/combinatorics/binomial-coefficients.html)
 
