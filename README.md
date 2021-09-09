@@ -23,3 +23,13 @@ Nashville was the first city **nationwide** to be granted an **FM-broadcasting l
 -Flight Tickets
 
 [AboutMe](/AboutMe.md)
+
+### Information about Food and Drinks
+this following table consists of food,location and price
+
+| food              | location               | amount  |  
+|-------------------|------------------------|---------|
+|  chicken Biryani  | Alpha Cafe,Kansas      |  $23    |  
+|  Mutton Pulusu    | Dawat,Sanjoe           | $29     |   
+|  Fish Fry         | IndiaSpice,Chicago     | $25     |  
+| Egg fried rice    |   Indian spice,Chicago | $10     |  
