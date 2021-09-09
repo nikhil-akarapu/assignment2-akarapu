@@ -44,3 +44,26 @@ this following table consists of food,location and price
 
 *Gorge R.R.Martin*
 
+
+### code fencing 
+In mathematics, the binomial coefficients are the positive integers that occur as coefficients in the binomial theorem. Commonly, a binomial coefficient is indexed by a pair of integers n ≥ k ≥ 0 and is written {\displaystyle {\tbinom {n}{k}}.}{\displaystyle {\tbinom {n}{k}}.} It is the coefficient of the xk term in the polynomial expansion of the binomial power (1 + x)n
+
+[Introduction](https://en.wikipedia.org/wiki/Binomial_coefficient#:~:text=In%20mathematics%2C%20the%20binomial%20coefficients%20are%20the%20positive,%2B%20x%29n%2C%20and%20is%20given%20by%20the%20formula)
+
+
+'''
+const int maxn = ...;
+int C[maxn + 1][maxn + 1];
+C[0][0] = 1;
+for (int n = 1; n <= maxn; ++n) {
+    C[n][0] = C[n][n] = 1;
+    for (int k = 1; k < n; ++k)
+        C[n][k] = C[n - 1][k - 1] + C[n - 1][k];
+}
+
+'''
+
+[Pascals Triangle](https://cp-algorithms.com/combinatorics/binomial-coefficients.html)
+
+
+
