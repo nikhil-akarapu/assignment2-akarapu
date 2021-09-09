@@ -33,3 +33,14 @@ this following table consists of food,location and price
 |  Mutton Pulusu    | Dawat,Sanjoe           | $29     |   
 |  Fish Fry         | IndiaSpice,Chicago     | $25     |  
 | Egg fried rice    |   Indian spice,Chicago | $10     |  
+
+### Quotes
+
+>Intelligence is the ability to adapt to change
+
+*Stephen Hawking*
+
+>Death is so terribly final, while life is full of possibilities
+
+*Gorge R.R.Martin*
+
