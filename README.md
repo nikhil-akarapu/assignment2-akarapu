@@ -7,3 +7,15 @@ Nashville is known worldwide for country music
 
 Nashville was the first city **nationwide** to be granted an **FM-broadcasting license**.
 
+*** 
+## directions from Maryville to Nashville
+1. Drive to Kansas 
+2. take a flight from Kansas to Nashville
+3. Will reach Nashville
+
+### Things to Carry
+1. Passport
+2. Electronic gadgets
+3. Valuables
+
+[AboutMe](/AboutMe.md)
