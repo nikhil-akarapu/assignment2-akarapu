@@ -14,8 +14,8 @@ Nashville was the first city **nationwide** to be granted an **FM-broadcasting l
 3. Will reach Nashville
 
 ### Things to Carry
-1. Passport
-2. Electronic gadgets
-3. Valuables
+-Passport
+-Electronic gadgets
+-Valuables
 
 [AboutMe](/AboutMe.md)
